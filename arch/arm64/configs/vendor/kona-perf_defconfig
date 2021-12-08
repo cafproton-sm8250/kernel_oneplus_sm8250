@@ -1,10 +1,7 @@
 CONFIG_LOCALVERSION="-Sapphire"
 # CONFIG_LOCALVERSION_AUTO is not set
-<<<<<<< HEAD
-=======
 CONFIG_HAPTIC_FEEDBACK_DISABLE=y
 CONFIG_FORCE_FAST_CHARGE=y
->>>>>>> 2d3c00d4e351... defconfig: enable gestures haptic feedback control
 CONFIG_NO_HZ=y
 CONFIG_HIGH_RES_TIMERS=y
 CONFIG_PREEMPT=y
